@@ -1,7 +1,16 @@
 # 🧠 Nick’s AI & Python Journey
 
-Welcome to my 24-week roadmap to becoming a **Junior AI & Data Developer**.  
-This repository tracks my learning, projects, and growth using Python, data science, and machine learning.
+---
+
+### 👨‍💻 About Me  
+Hi, I’m **Nicky Rongen** — an aspiring **AI & Data Developer** from the Netherlands.  
+After years of curiosity about technology and automation, I decided to fully commit to mastering **Python, data science, and AI development**.  
+
+This repository documents my 24-week journey — every step, project, and milestone as I grow into a professional developer.  
+I’m passionate about learning through building, solving real problems, and continuously improving my craft.  
+
+📍 *Rotterdam, Netherlands*  
+📧 *nickr920@gmail.com*
 
 ---
 
@@ -41,3 +50,7 @@ AI_Python_Journey/
 ## 📚 Notes
 This repository will grow as I progress through my roadmap.  
 Every few weeks, I’ll push updates with new projects, notebooks, and key reflections.
+
+---
+
+> *“Consistency beats intensity — one clean commit at a time.”*
