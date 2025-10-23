@@ -1,6 +1,6 @@
 # 🧠 Nick’s Python & AI Automation Journey
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Progress-In_Week_1-brightgreen)
 
