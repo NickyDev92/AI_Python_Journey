@@ -4,12 +4,13 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Status](https://img.shields.io/badge/Progress-In_Week_1-brightgreen)
 
+  Hi, I’m Nicky Rongen — an aspiring AI & Data Developer from the Netherlands.
+After years of curiosity about technology and automation, I decided to fully commit to mastering Python, Data Science, and AI Development.
 
-Hi, I’m **Nicky Rongen** — an aspiring **AI & Data Developer** from the Netherlands 🇳🇱.  
-After years of curiosity about technology and automation, I decided to fully commit to mastering **Python, Data Science, and AI Development**.  
+I founded PygenixAI, representing the fusion of creativity and intelligence — where golden ideas flow into the purple world of AI and automation.
 
-This repository documents my **26-week journey** — every step, project, and milestone as I grow into a **junior-to-mid-level developer**.  
-I’m passionate about learning through building, solving real problems, and crafting clean, production-ready code.  
+This repository documents my 26-week journey — every step, project, and milestone as I grow into a junior-to-mid-level developer.
+I’m passionate about learning through building, solving real problems, and crafting clean, production-ready code.
 
 📍 *Rotterdam, Netherlands*  
 📧 *nicky@Pygenixai.dev*  
