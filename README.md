@@ -1,56 +1,125 @@
-# 🧠 Nick’s AI & Python Journey
+# 🧠 Nick’s Python & AI Automation Journey
 
----
+Hi, I’m **Nicky Rongen** — an aspiring **AI & Data Developer** from the Netherlands 🇳🇱.  
+After years of curiosity about technology and automation, I decided to fully commit to mastering **Python, Data Science, and AI Development**.  
 
-### 👨‍💻 About Me  
-Hi, I’m **Nicky Rongen** — an aspiring **AI & Data Developer** from the Netherlands.  
-After years of curiosity about technology and automation, I decided to fully commit to mastering **Python, data science, and AI development**.  
-
-This repository documents my 24-week journey — every step, project, and milestone as I grow into a professional developer.  
-I’m passionate about learning through building, solving real problems, and continuously improving my craft.  
+This repository documents my **26-week journey** — every step, project, and milestone as I grow into a **junior-to-mid-level developer**.  
+I’m passionate about learning through building, solving real problems, and crafting clean, production-ready code.  
 
 📍 *Rotterdam, Netherlands*  
-📧 *nickr920@gmail.com*
+📧 *nickr920@gmail.com*  
 
 ---
 
 ## 🎯 Goals
-- Build a strong foundation in Python and data analysis  
-- Complete 4 IBM Certificates:  
-  1. AI Fundamentals  
-  2. Python for Data Science  
-  3. Data Science Fundamentals  
-  4. Machine Learning with Python  
-- Apply all skills through real portfolio projects  
-- Follow professional Git & coding standards  
+- Build a strong foundation in **Python, Data, and AI Automation**  
+- Earn **6 IBM & University of Michigan certificates:**  
+  1. Python for Everybody (U of M)  
+  2. IBM Data Analysis with Python  
+  3. IBM Developing AI Applications with Python & Flask  
+  4. IBM Machine Learning with Python  
+  5. IBM Generative AI with Large Language Models  
+  6. IBM AI Developer Professional Certificate  
+- Complete **5 portfolio projects + 1 capstone**  
+- Transition into **freelance AI / automation work**  
+- Maintain high standards → *clean code · Git · PEP8 · documentation*  
 
 ---
 
-## 🗂 Folder Structure
-
-```text
-AI_Python_Journey/
-│
-├── notebooks/   → Jupyter notebooks for lessons & experiments
-├── scripts/     → Python scripts & utilities
-├── data/        → Raw and processed datasets
-├── projects/    → Portfolio & capstone projects
-├── assets/      → Images, documents, media
-└── README.md
-```
+## 📁 Folder Structure
+**AI_Python_Journey/**
+- **assets/** → Images, documents, and media  
+- **data/** → Raw and processed datasets  
+- **notebooks/** → Jupyter notebooks for lessons & experiments  
+- **projects/** → Portfolio & capstone projects  
+- **scripts/** → Python scripts & utilities  
+- **README.md**
 
 ---
 
-## 🧩 Current Status
-✅ Environment Setup (Python, VS Code, Git, GitHub)  
-🏁 Starting Week 1: AI Fundamentals  
+## 🚀 26-Week Roadmap Overview
+
+### Phase 1 – Python Foundations (Weeks 1–8)  
+🎓 *Python for Everybody* (U of M)  
+🧮 Project → Automation Script Suite  
+
+### Phase 2 – Data Analysis (Weeks 9–10)  
+🎓 *IBM Data Analysis with Python*  
+📊 Project → Interactive Data Dashboard  
+
+### Phase 3 – AI App Development (Week 11)  
+🎓 *IBM Developing AI Applications with Flask*  
+🌐 Project → AI-Powered Web App  
+
+### Phase 4 – Machine Learning (Weeks 12–13)  
+🎓 *IBM Machine Learning with Python*  
+🤖 Project → Predictive Model API  
+
+### Phase 5 – Generative AI (Weeks 14–15)  
+🎓 *IBM Generative AI with LLMs*  
+💬 Project → LLM Automation Assistant  
+
+### Phase 6 – AI Developer Certificate (Weeks 16–24)  
+🎓 *IBM AI Developer Professional Certificate*  
+🚀 Project → End-to-End AI Automation Platform  
+
+### Pro Layer (Weeks 25–26)  
+🌟 Focus → Portfolio Polish + Freelance Launch  
 
 ---
 
-## 📚 Notes
-This repository will grow as I progress through my roadmap.  
-Every few weeks, I’ll push updates with new projects, notebooks, and key reflections.
+## ⏱ Daily Study System
+6 × 1.5 h blocks / day · 6 days / week · Sunday rest  
+
+| Block | Focus | Duration |  
+|:--|:--|:--|  
+| 1 | Course theory (watch + summarize) | 1.5 h |  
+| 2 | Guided coding labs | 1.5 h |  
+| 3 | Project building | 1.5 h |  
+| 4 | Debug & testing | 1.5 h |  
+| 5 | Documentation & notes | 1.5 h |  
+| 6 | GitHub updates & reflection | 1.5 h |  
 
 ---
 
-> *“Consistency beats intensity — one clean commit at a time.”*
+## 🔁 GitHub Workflow
+- Push **small commits daily** (after Block 6)  
+- Every **Saturday evening** → final push + update README + short log  
+- Track all work in pinned repo → `AI-Developer-Portfolio`  
+- Each project includes:  
+  - README with setup guide  
+  - Screenshots / demo videos  
+  - Short write-up of problem solved  
+
+---
+
+## 💼 Pro Layer (Weeks 25–26)
+**Goal:** Transition from student → professional developer  
+
+**Tasks include:**  
+- Polish all portfolio projects + capstone  
+- Build personal portfolio website (*Framer / Notion / GitHub Pages*)  
+- Create freelance profiles (*Upwork / Fiverr / Toptal*)  
+- Write case studies + record demo videos  
+- Apply to 5–10 AI automation jobs  
+- Optimize LinkedIn + GitHub presentation  
+- Final push → `Version 1.0 – AI Developer Portfolio`  
+
+---
+
+## 📆 Current Progress
+| Week | Focus | Status |  
+|:--|:--|:--|  
+| 1 | Python Setup & Basics | 🟩 In Progress |  
+| 2–8 | Python Foundations | ⬜ Pending |  
+| 9–10 | Data Analysis | ⬜ Pending |  
+| 11 | AI App (Flask) | ⬜ Pending |  
+| 12–13 | Machine Learning | ⬜ Pending |  
+| 14–15 | Generative AI | ⬜ Pending |  
+| 16–24 | AI Developer Certificate | ⬜ Pending |  
+| 25–26 | Pro Layer / Freelance | ⬜ Pending |  
+
+---
+
+> *“Discipline creates momentum. Momentum creates mastery.”*  
+> — **Nicky Rongen**
