@@ -1,5 +1,10 @@
 # 🧠 Nick’s Python & AI Automation Journey
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Status](https://img.shields.io/badge/Progress-In_Week_1-brightgreen)
+
+
 Hi, I’m **Nicky Rongen** — an aspiring **AI & Data Developer** from the Netherlands 🇳🇱.  
 After years of curiosity about technology and automation, I decided to fully commit to mastering **Python, Data Science, and AI Development**.  
 
