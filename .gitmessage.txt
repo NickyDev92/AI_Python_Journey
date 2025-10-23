@@ -1,0 +1,14 @@
+# Commit Message Template for PygenixAI Projects
+# Format: <type>(optional scope): <short summary>
+# Example: feat(notebooks): add week 2 notebook for data types
+
+# === Types ===
+# feat:      New feature
+# fix:       Bug fix
+# docs:      Documentation only changes
+# style:     Code style changes (formatting, spacing)
+# refactor:  Code restructuring without changing behavior
+# test:      Adding or updating tests
+# chore:     Maintenance or configuration
+
+# === Write your commit below this line ===
