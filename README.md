@@ -85,7 +85,7 @@ I’m passionate about learning through building, solving real problems, and cra
 ## 🔁 GitHub Workflow
 - Push **small commits daily** (after Block 6)  
 - Every **Saturday evening** → final push + update README + short log  
-- Track all work in pinned repo → `AI-Developer-Portfolio`  
+- Track all work in pinned repo → `AI_Python_Journey`  
 - Each project includes:  
   - README with setup guide  
   - Screenshots / demo videos  
@@ -103,7 +103,7 @@ I’m passionate about learning through building, solving real problems, and cra
 - Write case studies + record demo videos  
 - Apply to 5–10 AI automation jobs  
 - Optimize LinkedIn + GitHub presentation  
-- Final push → `Version 1.0 – AI Developer Portfolio`  
+- Final push → `Version 1.0 – AI_Python_Journey`  
 
 ---
 
