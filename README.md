@@ -13,7 +13,7 @@ This repository documents my 26-week journey — every step, project, and milest
 I’m passionate about learning through building, solving real problems, and crafting clean, production-ready code.
 
 📍 *Rotterdam, Netherlands*  
-📧 *nicky@Pygenixai.dev*  
+📧 *📧 [nicky@pygenixai.dev](mailto:nicky@pygenixai.dev)*  
 
 ---
 
