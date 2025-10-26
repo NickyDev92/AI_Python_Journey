@@ -48,7 +48,7 @@ This repository documents my **26-week professional journey** — every study ph
 ## 🗓️ 26-Week Roadmap Overview
 
 ### **Week 0 – Setup & Preparation**
-> Build your professional coding environment and GitHub repo.
+> **Build your professional coding environment and GitHub repo.**
 
 - Install Python 3.12 + VS Code  
 - Configure `.venv` and PowerShell profile  
@@ -59,8 +59,9 @@ This repository documents my **26-week professional journey** — every study ph
 ---
 
 ### **Phase 1 – Python Foundations (Weeks 1–8)**
+> **Learn Python fundamentals and automation logic.**
+
 **Course:** *Python for Everybody (University of Michigan)*  
-**Goal:** Learn Python fundamentals and automation logic  
 **Projects:** File Cleaner & Renamer • CSV↔JSON Converter • API Data Fetcher  
 📍 **Outcome:** 3 automation tools + solid Python foundation
 
@@ -73,8 +74,9 @@ Revisit incomplete exercises, refactor projects, clean docs, and prepare for Pha
 ---
 
 ### **Phase 2 – Data Analysis (Weeks 9–14)**
+> **Master data handling and visualization with Python and SQL.**
+
 **Course:** *IBM Data Analyst Professional Certificate*  
-**Goal:** Master data handling and visualization with Python and SQL  
 **Skills:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, SQL, EDA  
 **Project:** Interactive Data Dashboard  
 📍 **Outcome:** Portfolio-ready dashboard and analytical workflow
@@ -91,8 +93,9 @@ Revisit incomplete exercises, refactor projects, clean docs, and prepare for Pha
 ---
 
 ### **Phase 3 – Machine Learning & Generative AI (Weeks 15–20)**
+> **Develop predictive and generative AI models using modern ML techniques.**
+
 **Courses:** *IBM Machine Learning with Python* • *IBM Generative AI with LLMs*  
-**Goal:** Develop predictive and generative AI models  
 **Projects:** Predictive Model • Generative AI Assistant  
 📍 **Outcome:** Two AI apps demonstrating ML and LLM capabilities
 
@@ -105,8 +108,9 @@ Revisit complex ML topics, tune models, prepare deployment stack.
 ---
 
 ### **Phase 4 – AI App Development (Weeks 21–25)**
+> **Build and deploy AI models into production-ready applications.**
+
 **Course:** *IBM AI Developer Professional Certificate*  
-**Goal:** Build and deploy AI models into production-ready apps  
 **Focus:** Streamlit for UI • Docker for deployment  
 **Project:** *End-to-End AI Automation Platform (Capstone)*  
 📍 **Outcome:** Fully deployed AI app + GitHub showcase
@@ -135,10 +139,10 @@ Revisit complex ML topics, tune models, prepare deployment stack.
 
 ## ⏱️ Daily Study System
 
-**6 × 1.5h blocks per day · 6 days per week · Sunday rest**
+**6 × 1.5 h blocks per day · 6 days per week · Sunday rest**
 
 | Block | Focus | Duration |
-|:------|:-------|:----------|
+|:--|:--|:--|
 | 1 | Course Theory & Practice | 1.5 h |
 | 2 | Course Theory & Practice | 1.5 h |
 | 3 | Project Building & Debugging | 1.5 h |
@@ -153,6 +157,7 @@ Revisit complex ML topics, tune models, prepare deployment stack.
 - Push **small commits daily** (after Block 6)  
 - Every **Saturday evening** → final push + update README + short log  
 - Track all work in this repo → *AI_Python_Journey*  
+
 Each project includes:  
   - README with setup guide  
   - Screenshots / demo videos  
@@ -163,7 +168,7 @@ Each project includes:
 ## 📊 Current Progress
 
 | Phase | Focus | Status |
-|:------|:-------|:-------|
+|:--|:--|:--|
 | Pre-Setup | Environment & repo configuration | ✅ Complete |
 | Phase 1 | Python Foundations | 🟡 In Progress |
 | Phase 2 | Data Analysis | ⏳ Pending |
