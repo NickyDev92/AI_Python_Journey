@@ -1,8 +1,14 @@
-# 🧠 Nick’s Python & AI Automation Journey
+# 🧠 Nick’s Python & AI Automation Journey  
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Status](https://img.shields.io/badge/Progress-Phase_1_In_Progress-brightgreen)
+![PygenixAI Banner](assets/pygenixai_banner.png)  
+*(Banner placeholder — “Nick’s AI & Python Journey — 26 Weeks from Beginner to AI Developer” in gold & purple on black background)*
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue)]() 
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)]() 
+[![Status](https://img.shields.io/badge/Progress-Phase_1_In_Progress-brightgreen)]()
+[![Last Commit](https://img.shields.io/github/last-commit/NickyDev92/AI_Python_Journey?color=purple)]()
+[![Repo Size](https://img.shields.io/github/repo-size/NickyDev92/AI_Python_Journey?color=gold)]()
+[![License](https://img.shields.io/badge/license-MIT-blue)]()
 
 ---
 
@@ -15,6 +21,16 @@ This repository documents my **26-week professional journey** — every study ph
 
 📍 *Rotterdam, Netherlands*  
 📧 [nicky@pygenixai.dev](mailto:nicky@pygenixai.dev)
+
+---
+
+## 📚 Table of Contents
+- [Goals](#-goals)
+- [Folder Structure](#-folder-structure)
+- [26-Week Roadmap Overview](#-26-week-roadmap-overview)
+- [Daily Study System](#-daily-study-system)
+- [GitHub Workflow](#-github-workflow)
+- [Current Progress](#-current-progress)
 
 ---
 
