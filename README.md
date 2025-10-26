@@ -1,7 +1,6 @@
 # 🧠 Nick’s Python & AI Automation Journey  
 
-![PygenixAI Banner](assets/pygenixai_banner.png)  
-*(Banner placeholder — “Nick’s AI & Python Journey — 26 Weeks from Beginner to AI Developer” in gold & purple on black background)*
+---
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)]() 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)]() 
