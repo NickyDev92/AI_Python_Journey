@@ -4,7 +4,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)]() 
 [![Status](https://img.shields.io/badge/Progress-Phase_1_In_Progress-brightgreen)]()
 [![Last Commit](https://img.shields.io/github/last-commit/NickyDev92/AI_Python_Journey?color=purple)]()
-[![Repo Size](https://img.shields.io/github/repo-size/NickyDev92/AI_Python_Journey?color=gold)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
 ---
@@ -183,7 +182,7 @@ Each project includes:
 | Phase | Focus | Status |
 |:--|:--|:--|
 | Pre-Setup | Environment & repo configuration | ✅ Complete |
-| Phase 1 | Python Foundations | 🟡 In Progress |
+| Phase 1 | Python Foundations | ⏳ Pending |
 | Phase 2 | Data Analysis | ⏳ Pending |
 | Phase 3 | AI & Machine Learning | ⏳ Pending |
 | Phase 4 | AI App Development (Capstone) | ⏳ Pending |
