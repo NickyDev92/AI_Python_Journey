@@ -56,9 +56,9 @@ AI_Python_Journey/
 ├── notebooks/ → Jupyter notebooks for lessons & experiments  
 ├── projects/ → portfolio & capstone projects  
 ├── scripts/ → Python utilities & helper modules  
-├── requirements.txt  
 ├── LICENSE  
-└── README.md  
+├── README.md  
+└── requirements.txt  
   
 ---
 
