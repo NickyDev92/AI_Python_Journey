@@ -49,18 +49,17 @@ This repository documents my **26-week professional journey** — every study ph
 ---
 
 ## 📂 Folder Structure
-```
-AI_Python_Journey/
-├── assets/ → images, documents and media
-├── data/ → raw and processed datasets
-├── notebooks/ → Jupyter notebooks for lessons & experiments
-├── projects/ → portfolio & capstone projects
-├── scripts/ → Python utilities & helper modules
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
-
+  
+AI_Python_Journey/  
+├── assets/ → images, documents and media  
+├── data/ → raw and processed datasets  
+├── notebooks/ → Jupyter notebooks for lessons & experiments  
+├── projects/ → portfolio & capstone projects  
+├── scripts/ → Python utilities & helper modules  
+├── requirements.txt  
+├── LICENSE  
+└── README.md  
+  
 ---
 
 ## 🗓️ 26-Week Roadmap Overview  
