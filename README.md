@@ -27,10 +27,10 @@ This repository documents my **26-week professional journey** — every study ph
 - [🎯 Goals](#-goals)  
 - [📁 Folder Structure](#-folder-structure)  
 - [🗓️ 26-Week Roadmap Overview](#️-26-week-roadmap-overview)  
--  [🧩 Daily Study System](#-daily-study-system)  
+- [🧩 Daily Study System](#-daily-study-system)  
 - [🧠 Weekly Schedule](#-weekly-schedule)  
 - [⚙️ GitHub Workflow](#️-github-workflow)  
--  [📊 Current Progress](#-current-progress)  
+- [📊 Current Progress](#-current-progress)  
 
 ---
 
