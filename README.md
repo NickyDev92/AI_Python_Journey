@@ -49,6 +49,7 @@ This repository documents my **26-week professional journey** — every study ph
 ---
 
 ## 📁 Folder Structure  
+```text
 AI_Python_Journey/
 ├── assets/ → images, documents and media  
 ├── data/ → raw and processed datasets  
