@@ -191,10 +191,6 @@ Transition from student → professional developer.
 
 ---
 
-**Sunday – Rest Day**  
-
----
-
 ## ⚙️ GitHub Workflow  
 - Push **small commits daily** (after Block 6)  
 - Every **Saturday evening** → final push + update README + short log  
