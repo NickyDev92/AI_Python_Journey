@@ -191,7 +191,7 @@ Transition from student → professional developer.
 
 ---
 
-**Sunday – Rest Day:**  
+**Sunday – Rest Day**  
 
 ---
 
