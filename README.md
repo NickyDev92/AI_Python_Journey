@@ -1,13 +1,16 @@
-# 🧠 Nick’s Python & AI Automation Journey  
-### 🚀 26-Week Professional Roadmap  
+<div align="center">
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-gold"></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-purple"></a>
-  <img src="https://img.shields.io/badge/Progress-Phase%201%20In%20Progress-gold">
-  <img src="https://img.shields.io/github/last-commit/NickyDev92/AI_Python_Journey?color=purple">
-  <img src="https://img.shields.io/badge/License-MIT-gold">
-</p>
+# 🧠 Nick’s Python & AI Automation Journey
+
+### 🚀 26-Week Professional Roadmap
+
+[![Python](https://img.shields.io/badge/Python-3.12-gold?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-purple?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Progress](https://img.shields.io/badge/Progress-Phase%201%20In%20Progress-gold?style=for-the-badge)](#)
+[![Commit](https://img.shields.io/badge/Last%20Commit-Today-purple?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](LICENSE)
+
+</div>
 
 ---
 
