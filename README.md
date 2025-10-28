@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🧠 Nick’s Python & AI Automation Journey
+# 🧠 Nick’s Python & AI Automation Journey  
 
-### 🚀 26-Week Professional Roadmap
+### 🚀 26-Week Professional Roadmap  
 
-[![Python](https://img.shields.io/badge/Python-3.12-gold?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-purple?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Progress](https://img.shields.io/badge/Progress-Phase%201%20In%20Progress-gold?style=for-the-badge)](#)
-[![Commit](https://img.shields.io/badge/Last%20Commit-Today-purple?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12-gold)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-purple)](https://jupyter.org/)
+[![Progress](https://img.shields.io/badge/Progress-Phase%201%20In%20Progress-gold)](#)
+[![Commit](https://img.shields.io/badge/Last%20Commit-Today-purple)](#)
+[![License](https://img.shields.io/badge/License-MIT-gold)](LICENSE)
 
 </div>
 
