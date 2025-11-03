@@ -68,14 +68,14 @@ AI_Python_Journey/
 
 ## 🗓️ 26-Week Roadmap Overview  
 
-### Week 0 – Setup & Preparation  
+### Week 0 – Setup & Preparation - ✅ Complete
 Goal: Build a professional coding environment and structure.  
 Tasks: install Python 3.12 & VS Code • configure PowerShell & .venv • link kernel • init Git repo • test Jupyter.  
 📍 Milestone: Functional environment & repo ready for Phase 1.  
 
 ---
 
-### Phase 1 – Python Foundations (Weeks 1–8)  
+### Phase 1 – Python Foundations (Weeks 1–8) - 🟢 Active (week 1)
 Goal: Learn Python fundamentals and automation logic.  
 Course: Python for Everybody (U of M)  
 Projects: File Cleaner & Renamer • CSV↔JSON Converter • API Data Fetcher  
@@ -208,7 +208,7 @@ Each project includes:
 | Phase | Focus | Status |
 |:--|:--|:--|
 | Pre-Setup | Environment & repo configuration | ✅ Complete |
-| Phase 1 | Python Foundations | 🟢 Active, 03-11-25 |
+| Phase 1 | Python Foundations | 🟢 Active (week 1) |
 | Phase 2 | Data Analysis | ⏳ Pending |
 | Phase 3 | AI & Machine Learning | ⏳ Pending |
 | Phase 4 | AI App Development (Capstone) | ⏳ Pending |
